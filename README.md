@@ -1,5 +1,7 @@
 # Named Entity Recognition BiLSTM
 
+### Dataset 
+The dataset used can be found here: https://www.kaggle.com/bradbolliger/gmb-v220
 
 
 ### Model
