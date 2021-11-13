@@ -1,6 +1,12 @@
 # Named Entity Recognition BiLSTM
 
+
+### Problem Statement
+
+Recognize the Named Entity in a text.
+
 ### Dataset 
+
 The dataset used can be found here: https://www.kaggle.com/bradbolliger/gmb-v220
 
 
