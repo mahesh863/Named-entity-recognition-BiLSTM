@@ -51,14 +51,13 @@ The validation accuracy ended at 96% and loss at around 0.0571.
 
 The model was able to Differentiate between different entity. Below are the results.
 
-![alt text](https://github.com/mahesh863/Named-entity-recognition-BiLSTM/blob/main/Graphs/Results.png)
+<img src="https://github.com/mahesh863/Named-entity-recognition-BiLSTM/blob/main/Graphs/Results.png" width="500px">
 
 
 
 ### Conclusion
 
-
-
+This is not the best technique. A better model could be bild with CRFs.
 
 
 
